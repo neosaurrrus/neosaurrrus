@@ -5,9 +5,6 @@ I have a number of web apps I have built from conception to deployment mostly us
 
 I have been working hard to develop my coding skills over the last few years but the more I learn, the more I find there is to learn and that is exciting. I am developing a mentality to learn in the open and blog ([https://dev.to/neosaurrrus](https://dev.to/neosaurrrus) ) what I have learnt, which is something I would have been terrified of a couple of years ago.
 
-My latest project involved building a planning poker app for Agile teams. I have worked in Agile environments as well as traditional waterfall approaches, with a preference definitely for the former! Being smart about how we organise and work to build something is something I am passionate about as it is crucial. That’s why I became a certifed ScrumMaster so I can better understand and contribute to these ideas. 
-
-As a former Business Analyst. I have written documentation, ran workshops and presentations that, for example, helped Deutsche Bank develop and demonstrate compliance with new regulations to the European Central Bank. I know that was a dull sentence to read, but I am really proud that my work did the job in such high stakes
 
 Some other things you might want to know about me:
 
