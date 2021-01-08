@@ -11,4 +11,4 @@ Some other things you might want to know about me:
 - 💬 Ask me about accessibility, React
 - 📫 How to reach me: @lukie_k on Twitter is good enough.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I once drove from the UK to Mongolia in  an 18year old Nissan Micra.
+- ⚡ Fun fact: I once drove from the UK to Mongolia in  an 23 year old Nissan Micra.
