@@ -4,8 +4,8 @@ I have been working hard to develop my coding skills over the last few years but
 
 Some other things you might want to know about me:
 
-- 🔭 I’m currently working on a brief report into accessibility in UK news organisations
-- 🌱 I’m currently learning Gatsby and usage of headless CMS's
+- 🔭 I’m looking for new roles!
+- 🌱 I’m currently re-learning more advanced Python techiques
 - 👯 I’m looking to collaborate on projects help make the web more accessible to the world.
 - 🤔 I’m looking for help with test-driven development techniques
 - 💬 Ask me about accessibility, React
