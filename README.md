@@ -5,7 +5,7 @@ I have been working hard to develop my coding skills over the last few years but
 Some other things you might want to know about me:
 
 - 🔭 I’m looking for new roles!
-- 🌱 I’m currently re-learning more advanced Python techiques and having fun with Svelte
+- 🌱 I’m currently re-learning Python and having fun with Svelte
 - 👯 I’m looking to collaborate on projects help make the web more accessible to the world.
 - 🤔 I’m looking for help with test-driven development techniques that work in componentized
 - 💬 Ask me about accessibility, React, Svelte
